@@ -1,12 +1,15 @@
 # Creación de Marca 🤳
 
-## Temas a tratar en la sesión📝🤓
+## 📝🤓Temas a tratar en la sesión
 
 - [Marketing](#marketing)
 - [Redes Sociales](#redes-sociales)
 - [Marca Personal](#marca-personal)
 - [Casos de Estudio](#casos-de-estudio)
 - [Actividades](#actividades)
+- [Fuentes](#fuentes)
+
+<br><br><br><br><br><br><br><br><br><br>
 
 ## Marketing
 
@@ -25,7 +28,9 @@
 - Inbound 😍
 - Outbound 🤑
 
-[🔙](#temas-a-tratar-en-la-sesión📝🤓)
+[🔙](#temas-a-tratar-en-la-sesión)
+
+<br><br><br><br><br><br><br><br><br><br>
 
 ## Redes Sociales
 
@@ -49,7 +54,9 @@
 - Codepen
 - Behance
 
-[🔙](#temas-a-tratar-en-la-sesión📝🤓)
+[🔙](#temas-a-tratar-en-la-sesión)
+
+<br><br><br><br><br><br><br><br><br><br>
 
 ## Marca Personal
 
@@ -78,7 +85,9 @@
 - Recomienda productos o servicios a otros
 - Organiza eventos
 
-[🔙](#temas-a-tratar-en-la-sesión📝🤓)
+[🔙](#temas-a-tratar-en-la-sesión)
+
+<br><br><br><br><br><br><br><br><br><br>
 
 ## Casos de Estudio
 
@@ -87,16 +96,18 @@
 - [Wawawiwa Design](https://www.instagram.com/wawawiwadesign/)
 - [72 kilos](https://www.instagram.com/72kilos/)
 - [MostrOpi](https://www.instagram.com/mostropi/)
+- [Malvestida](https://www.instagram.com/malvestida/)
 - [BUFF ACADEMY - Vadym Cavalera](https://www.instagram.com/buff.academy/)
 - [Sascha Fitness](https://www.instagram.com/saschafitness/)
 - [Lisa Osborne](https://www.instagram.com/lisaosbornebodyattack/)
 - [Sara Sigmundsdóttir](https://www.instagram.com/sarasigmunds/)
-- [Bobo](https://www.instagram.com/bobo_andfriends/)
-- [La Chata Pig](https://www.instagram.com/lachatapig/)
+- [Araiz Arriola](https://www.instagram.com/araizcorre/)
 - [Lucy Lara](https://www.instagram.com/lucylara_art/)
 - [Mauricio González, M.D.](https://www.instagram.com/dr.mauriciogonzalez/)
 - [Fric Martínez](https://www.instagram.com/fricmartinez/)
 - [Pau Ninja®](https://www.instagram.com/pau_ninja/)
+- [Bobo](https://www.instagram.com/bobo_andfriends/)
+- [La Chata Pig](https://www.instagram.com/lachatapig/)
 
 ### Negocios
 
@@ -120,13 +131,9 @@
 - [Firebase México](https://www.instagram.com/firebasemx/)
 - [Ya Se Cansaron](https://www.instagram.com/yasecansaron/)
 
-[🔙](#temas-a-tratar-en-la-sesión📝🤓)
+[🔙](#temas-a-tratar-en-la-sesión)
 
-<style>
-h2 {
-  color:red;
-}
-</style>
+<br><br><br><br><br><br><br><br><br><br>
 
 ## Actividades
 
@@ -139,4 +146,16 @@ h2 {
 - ¿Qué producto o servicio piensas vender?
 - ¿Que estrategias piensas usar para vender y recopilar información de usu?
 
-[🔙](#temas-a-tratar-en-la-sesión📝🤓)
+[🔙](#temas-a-tratar-en-la-sesión)
+
+<br><br><br><br><br><br><br><br><br><br>
+
+## Fuentes
+
+- [Neil Patel](https://www.youtube.com/user/neilvkpatel)
+- [Romuald Fons](https://www.youtube.com/channel/UCdZBLznygSwo7iHbydGtxaw)
+- [Judit Català](https://www.youtube.com/user/ideasempresa)
+
+[🔙](#temas-a-tratar-en-la-sesión)
+
+<br><br><br><br><br><br><br><br><br><br>

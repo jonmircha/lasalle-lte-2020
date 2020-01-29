@@ -17,3 +17,7 @@ Repositorio de contenidos de la materia Laboratorio de Tecnologías Emergentes 2
 - **GRUPO 801 TURNO VESPERTINO**
   - Martes de 20:30 a 22 hrs.
   - Viernes de 19 a 22 hrs.
+
+## Temas
+
+- [Creación de Marca](./mds/Marca.md)
