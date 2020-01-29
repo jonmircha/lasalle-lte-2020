@@ -10,6 +10,8 @@
 - [Fuentes](#fuentes)
 
 <br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
 
 ## Marketing
 
@@ -30,6 +32,8 @@
 
 [🔙](#temas-a-tratar-en-la-sesión)
 
+<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br>
 
 ## Redes Sociales
@@ -56,6 +60,8 @@
 
 [🔙](#temas-a-tratar-en-la-sesión)
 
+<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br>
 
 ## Marca Personal
@@ -87,6 +93,8 @@
 
 [🔙](#temas-a-tratar-en-la-sesión)
 
+<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br>
 
 ## Casos de Estudio
@@ -134,6 +142,8 @@
 [🔙](#temas-a-tratar-en-la-sesión)
 
 <br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
 
 ## Actividades
 
@@ -149,6 +159,8 @@
 [🔙](#temas-a-tratar-en-la-sesión)
 
 <br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
 
 ## Fuentes
 
@@ -158,4 +170,6 @@
 
 [🔙](#temas-a-tratar-en-la-sesión)
 
+<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br>
