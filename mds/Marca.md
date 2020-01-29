@@ -1,4 +1,4 @@
-# Creación de Marca 🤳
+# 🤳Creación de Marca
 
 ## 📝🤓Temas a tratar en la sesión
 
@@ -154,7 +154,7 @@
 - ¿Qué contenido de valor darás gratis?
 - Calendario editorial para contenido gratuito
 - ¿Qué producto o servicio piensas vender?
-- ¿Que estrategias piensas usar para vender y recopilar información de usu?
+- ¿Que estrategias piensas usar para vender y recopilar información de tus usuarios?
 
 [🔙](#temas-a-tratar-en-la-sesión)
 
