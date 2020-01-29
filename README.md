@@ -21,3 +21,9 @@ Repositorio de contenidos de la materia Laboratorio de Tecnologías Emergentes 2
 ## Temas
 
 - [Creación de Marca](./mds/Marca.md)
+
+## Actividades
+
+| Actividades                                                       | Revisión                                     |
+| ----------------------------------------------------------------- | -------------------------------------------- |
+| [Actividades de la Creación de Marca](./mds/Marca.md#actividades) | 800 Lunes 03-feb-20 <br>801 Martes 04-feb-20 |
