@@ -62,7 +62,10 @@ Repositorio de contenidos de la materia Laboratorio de Tecnologías Emergentes 2
     - Avatar del producto / servicio.
     - Nombre y descripción de la cuenta.
     - 3 publicaciones.
-    - Para el día 01 de Junio de 2020 la cuenta deberá tener 700 seguidores.
+    - Para el día 01 de Junio de 2020 la cuenta deberá tener:
+      - 700 seguidores para equipos de 3 estudiantes.
+      - 550 seguidores para equipos de 2 estudiantes.
+      - 400 seguidores para estudiantes individuales.
 
 ### Tienda Virtual
 
@@ -93,14 +96,14 @@ Repositorio de contenidos de la materia Laboratorio de Tecnologías Emergentes 2
 
 ## Equipos Grupo 801
 
-| Proyecto                   | Integrantes          |
-| -------------------------- | -------------------- |
-| Helados                    | Alejandro y Samantha |
-| Hip Hop Trends             | Luis y Ana           |
-| Ajolotes                   | MaFer y MaJo         |
-| Comida MC & Cheese Lovers  | Camila, Beto y Annel |
-| Frases para Universitarios | Arantxa y Lorenza    |
-| Restaurante Yucateco       | Andrea y Ludwin      |
-| FanArt                     | Aranza               |
-| Gastronomía Mercados       | Claudia y Selena     |
-| Influencer o Ecofriendly   | Ceci y Galina        |
+| Proyecto                   | Integrantes           |
+| -------------------------- | --------------------- |
+| Textiles y Bordados        | Alejandro y Samantha  |
+| Hip Hop Trends             | Luis y Ana            |
+| Canciones Ilustradass      | MaFer y MaJo          |
+| Mac & Lovers               | Camila, Beto y Annel  |
+| Frases para Universitarios | Arantxa y Lorenza     |
+| Restaurante Yucateco       | Andrea y Ludwin       |
+| FanArt                     | Aranza                |
+| Gastronomía Mercados       | Claudia y Selena      |
+| Influencer o Ecofriendly   | Ceci, Galina y Karina |
