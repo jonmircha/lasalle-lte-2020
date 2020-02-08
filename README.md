@@ -95,7 +95,6 @@ Repositorio de contenidos de la materia Laboratorio de Tecnologías Emergentes 2
 
 | Proyecto                   | Integrantes          |
 | -------------------------- | -------------------- |
-| Frases Culinarias          | Natalia y Gabriela   |
 | Helados                    | Alejandro y Samantha |
 | Hip Hop Trends             | Luis y Ana           |
 | Ajolotes                   | MaFer y MaJo         |
