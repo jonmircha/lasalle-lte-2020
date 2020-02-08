@@ -5,6 +5,7 @@ Repositorio de contenidos de la materia Laboratorio de Tecnologías Emergentes 2
 ## Profesores
 
 - Alejandro Imaz
+  - [alejandroimazl@gmail.com](mailto:alejandroimazl@gmail.com)
 - [Jonathan MirCha](http://jonmircha.com)
   - **[jonmircha](https://youtube.com/jonmircha)**
   - **[jonmircha@gmail.com](mailto:jonmircha@gmail.com)**
