@@ -66,7 +66,7 @@ Herramientas para comenzar a crear comunidad:
 <br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br>
 
-## ❤️Donaciones
+## ❤Donaciones
 
 - Cuenta bancaria: Depósitos directos o en establecimientos.
 - [Western Union](https://www.westernunion.com/mx/es/home.html)
