@@ -20,11 +20,11 @@
 - O puedes usar alguna [plantilla gratis](https://colorlib.com/wp/templates/) que se adapte a tus necesidades...
 - O puedes usar [WordPress.org](https://wordpress.org/).
 
-<br><br><br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br><br><br>
-
 [🔙](#temas-a-tratar-en-la-sesión)
+
+<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
 
 ## 💻Hospedaje Web
 
