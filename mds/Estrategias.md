@@ -5,7 +5,7 @@
 - [Sitio Web](#sitio-web)
 - [Hospedaje Web](#hospedaje-web)
 - [Comunidad](#comunidad)
-- [Donaciones y Pagos](#donaciones)
+- [Donaciones](#donaciones)
 - [Ventas](#ventas)
 
 <br><br><br><br><br><br><br><br><br><br>
@@ -24,6 +24,8 @@
 <br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br>
 
+[🔙](#temas-a-tratar-en-la-sesión)
+
 ## 💻Hospedaje Web
 
 - [NameCheap](https://www.namecheap.com/)
@@ -35,6 +37,8 @@
 - [WordPress.com](https://es.wordpress.com/)
 - [000webhost by Hostinger](https://www.000webhost.com/)
 - [AwardSpace](https://www.awardspace.com/free-hosting/)
+
+[🔙](#temas-a-tratar-en-la-sesión)
 
 <br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br>
@@ -56,6 +60,8 @@ Herramientas para comenzar a crear comunidad:
 - **Analíticas**: [Google Analytics](https://analytics.google.com/)
 - **Pagos en Línea**: [Paypal](https://www.paypal.com/)
 
+[🔙](#temas-a-tratar-en-la-sesión)
+
 <br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br>
@@ -68,6 +74,8 @@ Herramientas para comenzar a crear comunidad:
 - [Patreon](https://www.patreon.com/)
 - [KickStarter](https://www.kickstarter.com/)
 - [Ko-fi](https://ko-fi.com/)
+
+[🔙](#temas-a-tratar-en-la-sesión)
 
 <br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br>
@@ -94,8 +102,8 @@ Herramientas para comenzar a crear comunidad:
   - [Google Negocios](https://www.google.com/intl/es-419_mx/business/)
   - [Airbnb](https://www.airbnb.mx/s/experiences)
 
-<br><br><br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br><br><br>
-
 [🔙](#temas-a-tratar-en-la-sesión)
+
+<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>

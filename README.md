@@ -28,10 +28,10 @@ Repositorio de contenidos de la materia Laboratorio de Tecnologías Emergentes 2
 
 ## Actividades
 
-| Actividades                                                                                                                                          | Revisión                                          |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------- |
-| [Actividades de la Creación de Marca](./mds/Marca.md#actividades)                                                                                    | 800 Lunes 03-feb-20 <br>801 Martes 04-feb-20      |
-| Definición de nombre oficial del proyecto<br>Revisión documento de Marca (PDF)<br>Creación de cuenta en Instagram<br>Primer publicación en Instagram | 800 Miércoles 12-feb-20 <br>801 Viernes 14-feb-20 |
+| Actividades                                                                                                                                                      | Revisión                                          |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------- |
+| [Actividades de la Creación de Marca](./mds/Marca.md#actividades)                                                                                                | 800 Lunes 03-feb-20 <br>801 Martes 04-feb-20      |
+| 1. Definición de nombre oficial del proyecto<br>2. Revisión documento de Marca (PDF)<br>3. Creación de cuenta en Instagram<br>4. Primer publicación en Instagram | 800 Miércoles 12-feb-20 <br>801 Viernes 14-feb-20 |
 
 ## Entregas
 
