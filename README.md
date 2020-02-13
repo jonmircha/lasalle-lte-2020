@@ -60,14 +60,14 @@ Repositorio de contenidos de la materia Laboratorio de Tecnologías Emergentes 2
   - Estrategias para fidelizar a tus clientes.
   - Estrategias para vender a tus clientes.
   - URL de la cuenta de Instagram.
-  - La cuenta de Instagram para el día de entrega deberá contener lo siguiente:
-    - Avatar del producto / servicio.
-    - Nombre y descripción de la cuenta.
-    - 3 publicaciones.
-    - Para el día 01 de Junio de 2020 la cuenta deberá tener:
-      - 700 seguidores para equipos de 3 estudiantes.
-      - 550 seguidores para equipos de 2 estudiantes.
-      - 400 seguidores para estudiantes individuales.
+- La cuenta de Instagram para el día de entrega deberá contener lo siguiente:
+  - Avatar del producto / servicio.
+  - Nombre y descripción de la cuenta.
+  - 3 publicaciones.
+  - Para el día 01 de Junio de 2020 la cuenta deberá tener:
+    - 700 seguidores para equipos de 3 estudiantes.
+    - 550 seguidores para equipos de 2 estudiantes.
+    - 400 seguidores para estudiantes individuales.
 
 ### Tienda Virtual
 
