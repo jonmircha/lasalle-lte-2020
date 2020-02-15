@@ -83,29 +83,29 @@ Repositorio de contenidos de la materia Laboratorio de Tecnologías Emergentes 2
 
 ## Equipos Grupo 800
 
-| Proyecto                                        | Integrantes         |
-| ----------------------------------------------- | ------------------- |
-| Frases Culinarias                               | Natalia y Gabriela  |
-| Cervezas Artesanales                            | Astrid y Gabriela   |
-| Frases empoderamiento femenino (mujer chingona) | Sandra y Constanza  |
-| Pulquerías                                      | David y Martha      |
-| Mascotas (Concientizar y Bocadillos)            | Verónica y Andrea   |
-| Horóscopos para Diseñadores                     | Santiago y Fernanda |
-| Personajes Mitológicos en la era Millenial      | Nicoles y Francisco |
-| Postres                                         | Fernanda y Azucena  |
-| Perros (collares artesanales)                   | Karla y Mariana     |
-| Frases empoderamiento femenino                  | Almudena y Mónica   |
+| Proyecto                                                                                 | Integrantes               |
+| ---------------------------------------------------------------------------------------- | ------------------------- |
+| [@platos.de.voz](https://www.instagram.com/platos.de.voz/)                               | Natalia y Gabriela        |
+| [@beerncheers](https://www.instagram.com/beerncheers/) Cervezas Artesanales              | Astrid y Gabriela         |
+| [@vales1k](https://www.instagram.com/vales1k/)                                           | Sandra y Constanza        |
+| [@horadelpulquecdmx](https://www.instagram.com/horadelpulquecdmx/)                       | David y Martha            |
+| [@fran\_\_chi](https://www.instagram.com/fran__chi/)                                     | Verónica, Andrea y Nicole |
+| [@vector_vidente](https://www.instagram.com/vector_vidente/) Horóscopos para Diseñadores | Santiago y Fernanda       |
+| [@cupsicakes](https://www.instagram.com/cupsicakes)                                      | Fernanda y Azucena        |
+| [@milkyrecomienda](https://www.instagram.com/milkyrecomienda/)                           | Karla y Mariana           |
+| [@la\_\_\_\_tina](https://www.instagram.com/la____tina/)                                 | Almudena y Mónica         |
+| mirithemartian                                                                           | Mariana                   |
 
 ## Equipos Grupo 801
 
-| Proyecto                   | Integrantes           |
-| -------------------------- | --------------------- |
-| Textiles y Bordados        | Alejandro y Samantha  |
-| Hip Hop Trends             | Luis y Ana            |
-| Canciones Ilustradass      | MaFer y MaJo          |
-| Mac & Lovers               | Camila, Beto y Annel  |
-| Frases para Universitarios | Arantxa y Lorenza     |
-| Restaurante Yucateco       | Andrea y Ludwin       |
-| FanArt                     | Aranza                |
-| Gastronomía Mercados       | Claudia y Selena      |
-| Influencer o Ecofriendly   | Ceci, Galina y Karina |
+| Proyecto                                                 | Integrantes           |
+| -------------------------------------------------------- | --------------------- |
+| [@art.sxcks](https://www.instagram.com/art.sxcks/)       | Alejandro y Samantha  |
+| [@3d.outfit](https://www.instagram.com/3d.outfit/)       | Luis y Ana            |
+| Canciones Ilustradass                                    | MaFer y MaJo          |
+| Mac & Lovers                                             | Camila, Beto y Annel  |
+| [@tamoprotodio](https://www.instagram.com/tamoprotodio/) | Arantxa y Lorenza     |
+| [@restriviera](https://www.instagram.com/restriviera/)   | Andrea y Ludwin       |
+| [@meiwaku_mx](https://www.instagram.com/meiwaku_mx/)     | Aranza                |
+| Gastronomía Mercados                                     | Claudia y Selena      |
+| Influencer o Ecofriendly                                 | Ceci, Galina y Karina |
