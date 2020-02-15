@@ -83,29 +83,29 @@ Repositorio de contenidos de la materia Laboratorio de Tecnologías Emergentes 2
 
 ## Equipos Grupo 800
 
-| Proyecto                                                                                 | Integrantes               |
-| ---------------------------------------------------------------------------------------- | ------------------------- |
-| [@platos.de.voz](https://www.instagram.com/platos.de.voz/)                               | Natalia y Gabriela        |
-| [@beerncheers](https://www.instagram.com/beerncheers/) Cervezas Artesanales              | Astrid y Gabriela         |
-| [@vales1k](https://www.instagram.com/vales1k/)                                           | Sandra y Constanza        |
-| [@horadelpulquecdmx](https://www.instagram.com/horadelpulquecdmx/)                       | David y Martha            |
-| [@fran\_\_chi](https://www.instagram.com/fran__chi/)                                     | Verónica, Andrea y Nicole |
-| [@vector_vidente](https://www.instagram.com/vector_vidente/) Horóscopos para Diseñadores | Santiago y Fernanda       |
-| [@cupsicakes](https://www.instagram.com/cupsicakes)                                      | Fernanda y Azucena        |
-| [@milkyrecomienda](https://www.instagram.com/milkyrecomienda/)                           | Karla y Mariana           |
-| [@la\_\_\_\_tina](https://www.instagram.com/la____tina/)                                 | Almudena y Mónica         |
-| mirithemartian                                                                           | Mariana                   |
+| Proyecto                                                           | Integrantes               |
+| ------------------------------------------------------------------ | ------------------------- |
+| [@platos.de.voz](https://www.instagram.com/platos.de.voz/)         | Natalia y Gabriela        |
+| [@beerncheers](https://www.instagram.com/beerncheers/)             | Astrid y Gabriela         |
+| [@vales1k](https://www.instagram.com/vales1k/)                     | Sandra y Constanza        |
+| [@horadelpulquecdmx](https://www.instagram.com/horadelpulquecdmx/) | David y Martha            |
+| [@fran\_\_chi](https://www.instagram.com/fran__chi/)               | Verónica, Andrea y Nicole |
+| [@vector_vidente](https://www.instagram.com/vector_vidente/)       | Santiago y Fernanda       |
+| [@cupsicakes](https://www.instagram.com/cupsicakes)                | Fernanda y Azucena        |
+| [@milkyrecomienda](https://www.instagram.com/milkyrecomienda/)     | Karla y Mariana           |
+| [@la\_\_\_\_tina](https://www.instagram.com/la____tina/)           | Almudena y Mónica         |
+| mirithemartian                                                     | Mariana                   |
 
 ## Equipos Grupo 801
 
-| Proyecto                                                 | Integrantes           |
-| -------------------------------------------------------- | --------------------- |
-| [@art.sxcks](https://www.instagram.com/art.sxcks/)       | Alejandro y Samantha  |
-| [@3d.outfit](https://www.instagram.com/3d.outfit/)       | Luis y Ana            |
-| Canciones Ilustradass                                    | MaFer y MaJo          |
-| Mac & Lovers                                             | Camila, Beto y Annel  |
-| [@tamoprotodio](https://www.instagram.com/tamoprotodio/) | Arantxa y Lorenza     |
-| [@restriviera](https://www.instagram.com/restriviera/)   | Andrea y Ludwin       |
-| [@meiwaku_mx](https://www.instagram.com/meiwaku_mx/)     | Aranza                |
-| Gastronomía Mercados                                     | Claudia y Selena      |
-| Influencer o Ecofriendly                                 | Ceci, Galina y Karina |
+| Proyecto                                                           | Integrantes           |
+| ------------------------------------------------------------------ | --------------------- |
+| [@art.sxcks](https://www.instagram.com/art.sxcks/)                 | Alejandro y Samantha  |
+| [@3d.outfit](https://www.instagram.com/3d.outfit/)                 | Luis y Ana            |
+| [@colorea.la.musica](https://www.instagram.com/colorea.la.musica/) | MaFer y MaJo          |
+| [@mac_lovers3](https://www.instagram.com/mac_lovers3/)             | Camila, Beto y Annel  |
+| [@tamoprotodio](https://www.instagram.com/tamoprotodio/)           | Arantxa y Lorenza     |
+| [@restriviera](https://www.instagram.com/restriviera/)             | Andrea y Ludwin       |
+| [@meiwaku_mx](https://www.instagram.com/meiwaku_mx/)               | Aranza                |
+| [@trazosocultos](https://www.instagram.com/trazosocultos/)         | Claudia y Selena      |
+| [@acuerdoeco](https://www.instagram.com/acuerdoeco/)               | Ceci, Galina y Karina |
