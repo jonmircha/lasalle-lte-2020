@@ -15,23 +15,26 @@ Repositorio de contenidos de la materia Laboratorio de Tecnologías Emergentes 2
 - **GRUPO 800 TURNO VESPERTINO**
   - Lunes de 20:30 a 22 hrs,
   - Miércoles de 19 a 22 hrs.
-  - [Syllabus](./pdf/LabEmergentes2020_800.pdf)
+  - [_Syllabus_](./pdf/LabEmergentes2020_800.pdf)
 - **GRUPO 801 TURNO VESPERTINO**
   - Martes de 20:30 a 22 hrs.
   - Viernes de 19 a 22 hrs.
-  - [Syllabus](./pdf/LabEmergentes2020_801.pdf)
+  - [_Syllabus_](./pdf/LabEmergentes2020_801.pdf)
 
 ## Temas
 
 - [Creación de Marca](./mds/Marca.md)
 - [Estrategias para conseguir Usuarios/Clientes](./mds/Estrategias.md)
+- [_SEO_ en _Instagram_](./mds/InstagramSEO.md)
 
 ## Actividades
 
-| Actividades                                                                                                                                                      | Revisión                                          |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------- |
-| [Actividades de la Creación de Marca](./mds/Marca.md#actividades)                                                                                                | 800 Lunes 03-feb-20 <br>801 Martes 04-feb-20      |
-| 1. Definición de nombre oficial del proyecto<br>2. Revisión documento de Marca (PDF)<br>3. Creación de cuenta en Instagram<br>4. Primer publicación en Instagram | 800 Miércoles 12-feb-20 <br>801 Viernes 14-feb-20 |
+| Actividades                                                                                                                                                      | Revisión                                                                            |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| [Actividades de la Creación de Marca](./mds/Marca.md#actividades)                                                                                                | 800 Lunes 03-feb-20 <br>801 Martes 04-feb-20                                        |
+| 1. Definición de nombre oficial del proyecto<br>2. Revisión documento de Marca (PDF)<br>3. Creación de cuenta en Instagram<br>4. Primer publicación en Instagram | 800 Miércoles 12-feb-20 <br>801 Viernes 14-feb-20                                   |
+| Enviar documento de Marca en formato PDF al correo **jonmircha@gmail.com**                                                                                       | 800 Miércoles 19-feb-20 antes de las 4pm <br>801 Viernes 21-feb-20 antes de las 4pm |
+| Tu cuenta de _Instagram_ deberá tener: <br>&nbsp;&nbsp;&nbsp;&nbsp;1. Avatar y Descripción Oficial.<br>&nbsp;&nbsp;&nbsp;&nbsp;2. Al menos 3 publicaciones.      | 800 Miércoles 19-feb-20 antes de las 7pm <br>801 Viernes 21-feb-20 antes de las 7pm |
 
 ## Entregas
 
@@ -64,7 +67,7 @@ Repositorio de contenidos de la materia Laboratorio de Tecnologías Emergentes 2
   - Avatar del producto / servicio.
   - Nombre y descripción de la cuenta.
   - 3 publicaciones.
-  - Para el día 01 de Junio de 2020 la cuenta deberá tener:
+  - Para el día **01 de Junio de 2020** la cuenta deberá tener:
     - 700 seguidores para equipos de 3 estudiantes.
     - 550 seguidores para equipos de 2 estudiantes.
     - 400 seguidores para estudiantes individuales.

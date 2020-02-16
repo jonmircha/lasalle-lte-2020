@@ -7,6 +7,7 @@
 - [Comunidad](#comunidad)
 - [Donaciones](#donaciones)
 - [Ventas](#ventas)
+- [Fuentes](#fuentes)
 
 <br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br>
@@ -101,6 +102,16 @@ Herramientas para comenzar a crear comunidad:
 - Experiencias Personalizadas
   - [Google Negocios](https://www.google.com/intl/es-419_mx/business/)
   - [Airbnb](https://www.airbnb.mx/s/experiences)
+
+[🔙](#temas-a-tratar-en-la-sesión)
+
+<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
+
+## Fuentes
+
+- [jonmircha](https://jonmircha.com)
 
 [🔙](#temas-a-tratar-en-la-sesión)
 
