@@ -34,7 +34,7 @@ Repositorio de contenidos de la materia Laboratorio de Tecnologías Emergentes 2
 | [Actividades de la Creación de Marca](./mds/Marca.md#actividades)                                                                                                                                     | 800 Lunes 03-feb-20 <br>801 Martes 04-feb-20      |
 | 1. Definición de nombre oficial del proyecto<br>2. Revisión documento de Marca (PDF)<br>3. Creación de cuenta en Instagram<br>4. Primer publicación en Instagram                                      | 800 Miércoles 12-feb-20 <br>801 Viernes 14-feb-20 |
 | Enviar documento de Marca: <br>&nbsp;&nbsp;&nbsp;&nbsp;- En formato PDF<br>&nbsp;&nbsp;&nbsp;&nbsp;- Al correo **jonmircha@gmail.com**<br>&nbsp;&nbsp;&nbsp;&nbsp;- Antes de las 4pm del día indicado | 800 Miércoles 19-feb-20<br>801 Viernes 21-feb-20  |
-| Tu cuenta de _Instagram_ deberá tener: <br>&nbsp;&nbsp;&nbsp;&nbsp;1. Avatar y descripción oficiales<br>&nbsp;&nbsp;&nbsp;&nbsp;2. Al menos 3 publicaciones <br>Antes de las 7pm del día indicado     | 800 Miércoles 19-feb-20 <br>801 Viernes 21-feb-20 |
+| Tu cuenta de _Instagram_ deberá tener: <br>&nbsp;&nbsp;&nbsp;&nbsp;1. Avatar y descripción oficiales<br>&nbsp;&nbsp;&nbsp;&nbsp;2. Al menos 3 publicaciones                                           | 800 Miércoles 19-feb-20 <br>801 Viernes 21-feb-20 |
 
 ## Entregas
 
