@@ -53,13 +53,19 @@ Repositorio de contenidos de la materia Laboratorio de Tecnologías Emergentes 2
 - En un PDF entregar la siguiente información:
   - Nombre de producto / servicio.
   - Objetivo del producto / servicio.
-  - Avatar/Logo del producto / servicio.
-  - Público meta.
-  - Posible competencia o inspiración.
+  - Identidad del producto / servicio:
+    - Logotipo / versiones.
+    - Paleta de colores.
+    - Usos correctos e incorrectos.
+    - Tipografías.
+    - Estilos para publicaciones.
+    - _keyvisual_ de marca.
+  - Público meta (¿A quién te diriges?).
+  - Posible competencia o inspiración (_Benchmarking_, mínimo 3).
   - Plataformas en las que el producto / servicio tendra presencia (Instagram & Ecommerce, especificar sí se agregará otra plataforma).
   - Contenido de valor (gratis).
-  - Calendario editorial para la cuenta de Instagram (Fotos, Galerías, Videos, Historias, etc)
-  - Producto(s) / servicio(s) que piensas vender en el Ecommerce.
+  - Calendario editorial para la cuenta de Instagram (Fotos, Galerías, Videos, Historias, etc - mínimo 1 mes).
+  - Producto(s) / servicio(s) que piensas vender en el Ecommerce (Mostrar ejemplos).
   - Estrategias para fidelizar a tus clientes.
   - Estrategias para vender a tus clientes.
   - URL de la cuenta de Instagram.
