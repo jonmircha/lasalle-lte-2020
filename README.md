@@ -92,18 +92,18 @@ Repositorio de contenidos de la materia Laboratorio de Tecnologías Emergentes 2
 
 ## Equipos Grupo 800
 
-| Instagram                                                          | Integrantes               | Marca                              |
-| ------------------------------------------------------------------ | ------------------------- | ---------------------------------- |
-| [@platos.de.voz](https://www.instagram.com/platos.de.voz/)         | Natalia y Gabriela        |                                    |
-| [@beerncheers](https://www.instagram.com/beerncheers/)             | Astrid y Gabriela         |                                    |
-| [@vales1k](https://www.instagram.com/vales1k/)                     | Sandra y Constanza        |                                    |
-| [@horadelpulquecdmx](https://www.instagram.com/horadelpulquecdmx/) | David y Martha            |                                    |
-| [@fran\_\_chi](https://www.instagram.com/fran__chi/)               | Verónica, Andrea y Nicole | [Ver documento](./pdf/FranChi.pdf) |
-| [@vector_vidente](https://www.instagram.com/vector_vidente/)       | Santiago y Fernanda       |                                    |
-| [@cupsicakes](https://www.instagram.com/cupsicakes)                | Fernanda y Azucena        |                                    |
-| [@milkyrecomienda](https://www.instagram.com/milkyrecomienda/)     | Karla y Mariana           |                                    |
-| [@la\_\_\_\_tina](https://www.instagram.com/la____tina/)           | Almudena y Mónica         |                                    |
-| [@miriandearth](https://www.instagram.com/miriandearth/)           | Mariana                   |                                    |
+| Instagram                                                          | Integrantes               | Marca                                      |
+| ------------------------------------------------------------------ | ------------------------- | ------------------------------------------ |
+| [@platos.de.voz](https://www.instagram.com/platos.de.voz/)         | Natalia y Gabriela        | [Ver documento](./pdf/PlatosDeVoz.pdf)     |
+| [@beerncheers](https://www.instagram.com/beerncheers/)             | Astrid y Gabriela         | [Ver documento](./pdf/Beer&Cheers.pdf)     |
+| [@dosisperfecta\_](https://www.instagram.com/dosisperfecta_/)      | Sandra y Constanza        | [Ver documento](./pdf/LaDosisPerfecta.pdf) |
+| [@horadelpulquecdmx](https://www.instagram.com/horadelpulquecdmx/) | David y Martha            | [Ver documento](./pdf/HoraDelPulque.pdf)   |
+| [@fran\_\_chi](https://www.instagram.com/fran__chi/)               | Verónica, Andrea y Nicole | [Ver documento](./pdf/FranChi.pdf)         |
+| [@vector_vidente](https://www.instagram.com/vector_vidente/)       | Santiago y Fernanda       | [Ver documento](./pdf/VectorVidente.pdf)   |
+| [@cupsicakes](https://www.instagram.com/cupsicakes)                | Fernanda y Azucena        | [Ver documento](./pdf/CupsiCakes.pdf)      |
+| [@milkyrecomienda](https://www.instagram.com/milkyrecomienda/)     | Karla y Mariana           | [Ver documento](./pdf/MilkyRecomienda.pdf) |
+| [@la\_\_\_\_tina](https://www.instagram.com/la____tina/)           | Almudena y Mónica         | [Ver documento](./pdf/LaTina.pdf)          |
+| [@miriandearth](https://www.instagram.com/miriandearth/)           | Mariana                   | [Ver documento](./pdf/Miri.pdf)            |
 
 ## Equipos Grupo 801
 
