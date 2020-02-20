@@ -97,7 +97,7 @@ Repositorio de contenidos de la materia Laboratorio de Tecnologías Emergentes 2
 | [@platos.de.voz](https://www.instagram.com/platos.de.voz/)         | Natalia y Gabriela        | [Ver documento](./pdf/PlatosDeVoz.pdf)     |
 | [@beerncheers](https://www.instagram.com/beerncheers/)             | Astrid y Gabriela         | [Ver documento](./pdf/Beer&Cheers.pdf)     |
 | [@dosisperfecta\_](https://www.instagram.com/dosisperfecta_/)      | Sandra y Constanza        | [Ver documento](./pdf/LaDosisPerfecta.pdf) |
-| [@horadelpulquecdmx](https://www.instagram.com/horadelpulquecdmx/) | David y Martha            | [Ver documento](./pdf/HoraDelPulque.pdf)   |
+| [@horadelpulquecdmx](https://www.instagram.com/horadelpulquecdmx/) | David y Martha            | [Ver documento](./pdf/LaHoraDelPulque.pdf) |
 | [@fran\_\_chi](https://www.instagram.com/fran__chi/)               | Verónica, Andrea y Nicole | [Ver documento](./pdf/FranChi.pdf)         |
 | [@vector_vidente](https://www.instagram.com/vector_vidente/)       | Santiago y Fernanda       | [Ver documento](./pdf/VectorVidente.pdf)   |
 | [@cupsicakes](https://www.instagram.com/cupsicakes)                | Fernanda y Azucena        | [Ver documento](./pdf/CupsiCakes.pdf)      |
