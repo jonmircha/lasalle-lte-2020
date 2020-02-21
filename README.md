@@ -107,14 +107,14 @@ Repositorio de contenidos de la materia Laboratorio de Tecnologías Emergentes 2
 
 ## Equipos Grupo 801
 
-| Instagram                                                          | Integrantes           | Marca |
-| ------------------------------------------------------------------ | --------------------- | ----- |
-| [@art.sxcks](https://www.instagram.com/art.sxcks/)                 | Alejandro y Samantha  |       |
-| [@3d.outfit](https://www.instagram.com/3d.outfit/)                 | Luis y Ana            |       |
-| [@colorea.la.musica](https://www.instagram.com/colorea.la.musica/) | MaFer y MaJo          |       |
-| [@mac_lovers3](https://www.instagram.com/mac_lovers3/)             | Camila, Beto y Annel  |       |
-| [@tamoprotodio](https://www.instagram.com/tamoprotodio/)           | Arantxa y Lorenza     |       |
-| [@restriviera](https://www.instagram.com/restriviera/)             | Andrea y Ludwin       |       |
-| [@meiwaku_mx](https://www.instagram.com/meiwaku_mx/)               | Aranza                |       |
-| [@trazosocultos](https://www.instagram.com/trazosocultos/)         | Claudia y Selena      |       |
-| [@acuerdoeco](https://www.instagram.com/acuerdoeco/)               | Ceci, Galina y Karina |       |
+| Instagram                                                          | Integrantes           | Marca                                      |
+| ------------------------------------------------------------------ | --------------------- | ------------------------------------------ |
+| [@art.sxcks](https://www.instagram.com/art.sxcks/)                 | Alejandro y Samantha  | [Ver documento](./pdf/ArtSuxks.pdf)        |
+| [@3d.outfit](https://www.instagram.com/3d.outfit/)                 | Luis y Ana            | [Ver documento](./pdf/3dOutfit.pdf)        |
+| [@colorea.la.musica](https://www.instagram.com/colorea.la.musica/) | MaFer y MaJo          | [Ver documento](./pdf/Larala.pdf)          |
+| [@mac_lovers3](https://www.instagram.com/mac_lovers3/)             | Camila, Beto y Annel  | [Ver documento](./pdf/Mac&Lovers.pdf)      |
+| [@tamoprotodio](https://www.instagram.com/tamoprotodio/)           | Arantxa y Lorenza     | [Ver documento](./pdf/TeAmoPeroTeOdio.pdf) |
+| [@restriviera](https://www.instagram.com/restriviera/)             | Andrea y Ludwin       | [Ver documento](./pdf/RivieraMaya.pdf)     |
+| [@meiwaku_mx](https://www.instagram.com/meiwaku_mx/)               | Aranza                | [Ver documento](./pdf/Meiwaku.pdf)         |
+| [@trazosocultos](https://www.instagram.com/trazosocultos/)         | Claudia y Selena      | [Ver documento](./pdf/TrazosOcultos.pdf)   |
+| [@acuerdoeco](https://www.instagram.com/acuerdoeco/)               | Ceci, Galina y Karina | [Ver documento](./pdf/Acueco.pdf)          |
