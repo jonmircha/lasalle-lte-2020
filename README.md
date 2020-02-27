@@ -27,6 +27,7 @@ Repositorio de contenidos de la materia Laboratorio de Tecnologías Emergentes 2
 - [Estrategias para conseguir Usuarios/Clientes](./mds/Estrategias.md)
 - [_SEO_ en _Instagram_](./mds/InstagramSEO.md)
 - [Instalación de _WordPress_](./mds/WordPress.md)
+- [Ejemplos de Tiendas](./mds/TSAs.md)
 
 ## Actividades
 
