@@ -94,29 +94,29 @@ Repositorio de contenidos de la materia Laboratorio de Tecnologías Emergentes 2
 
 ## Equipos Grupo 800
 
-| Instagram                                                          | Integrantes               | Marca                                      |
-| ------------------------------------------------------------------ | ------------------------- | ------------------------------------------ |
-| [@platos.de.voz](https://www.instagram.com/platos.de.voz/)         | Natalia y Gabriela        | [Ver documento](./pdf/PlatosDeVoz.pdf)     |
-| [@beerncheers](https://www.instagram.com/beerncheers/)             | Astrid y Gabriela         | [Ver documento](./pdf/Beer&Cheers.pdf)     |
-| [@dosisperfecta\_](https://www.instagram.com/dosisperfecta_/)      | Sandra y Constanza        | [Ver documento](./pdf/LaDosisPerfecta.pdf) |
-| [@horadelpulquecdmx](https://www.instagram.com/horadelpulquecdmx/) | David y Martha            | [Ver documento](./pdf/LaHoraDelPulque.pdf) |
-| [@fran\_\_chi](https://www.instagram.com/fran__chi/)               | Verónica, Andrea y Nicole | [Ver documento](./pdf/FranChi.pdf)         |
-| [@vector_vidente](https://www.instagram.com/vector_vidente/)       | Santiago y Fernanda       | [Ver documento](./pdf/VectorVidente.pdf)   |
-| [@cupsicakes](https://www.instagram.com/cupsicakes)                | Fernanda y Azucena        | [Ver documento](./pdf/CupsiCakes.pdf)      |
-| [@milkyrecomienda](https://www.instagram.com/milkyrecomienda/)     | Karla y Mariana           | [Ver documento](./pdf/MilkyRecomienda.pdf) |
-| [@la\_\_\_\_tina](https://www.instagram.com/la____tina/)           | Almudena y Mónica         | [Ver documento](./pdf/LaTina.pdf)          |
-| [@miriandearth](https://www.instagram.com/miriandearth/)           | Mariana                   | [Ver documento](./pdf/Miri.pdf)            |
+| Instagram                                                          | Integrantes               | Marca                                      | Tienda                                                |
+| ------------------------------------------------------------------ | ------------------------- | ------------------------------------------ | ----------------------------------------------------- |
+| [@platos.de.voz](https://www.instagram.com/platos.de.voz/)         | Natalia y Gabriela        | [Ver documento](./pdf/PlatosDeVoz.pdf)     | [Ver Tienda](http://platosdevoz.atwebpages.com/)      |
+| [@beerncheers](https://www.instagram.com/beerncheers/)             | Astrid y Gabriela         | [Ver documento](./pdf/Beer&Cheers.pdf)     | [Ver Tienda]()                                        |
+| [@dosisperfecta\_](https://www.instagram.com/dosisperfecta_/)      | Sandra y Constanza        | [Ver documento](./pdf/LaDosisPerfecta.pdf) | [Ver Tienda](http://ladosisperfecta.atwebpages.com/)  |
+| [@horadelpulquecdmx](https://www.instagram.com/horadelpulquecdmx/) | David y Martha            | [Ver documento](./pdf/LaHoraDelPulque.pdf) | [Ver Tienda](http://lahoradelpulque.atwebpages.com/)  |
+| [@fran\_\_chi](https://www.instagram.com/fran__chi/)               | Verónica, Andrea y Nicole | [Ver documento](./pdf/FranChi.pdf)         | [Ver Tienda](http://franchi.atwebpages.com/)          |
+| [@vector_vidente](https://www.instagram.com/vector_vidente/)       | Santiago y Fernanda       | [Ver documento](./pdf/VectorVidente.pdf)   | [Ver Tienda](http://vectorvidente.onlinewebshop.net/) |
+| [@cupsicakes](https://www.instagram.com/cupsicakes)                | Fernanda y Azucena        | [Ver documento](./pdf/CupsiCakes.pdf)      | [Ver Tienda](http://cupsicakes.atwebpages.com/)       |
+| [@milkyrecomienda](https://www.instagram.com/milkyrecomienda/)     | Karla y Mariana           | [Ver documento](./pdf/MilkyRecomienda.pdf) | [Ver Tienda](http://milkyrecomienda.atwebpages.com/)  |
+| [@la\_\_\_\_tina](https://www.instagram.com/la____tina/)           | Almudena y Mónica         | [Ver documento](./pdf/LaTina.pdf)          | [Ver Tienda](http://echalechula.onlinewebshop.net/)   |
+| [@miriandearth](https://www.instagram.com/miriandearth/)           | Mariana                   | [Ver documento](./pdf/Miri.pdf)            | [Ver Tienda](http://miriandearth.atwebpages.com/)     |
 
 ## Equipos Grupo 801
 
-| Instagram                                                          | Integrantes           | Marca                                      |
-| ------------------------------------------------------------------ | --------------------- | ------------------------------------------ |
-| [@art.sxcks](https://www.instagram.com/art.sxcks/)                 | Alejandro y Samantha  | [Ver documento](./pdf/ArtSuxks.pdf)        |
-| [@3d.outfit](https://www.instagram.com/3d.outfit/)                 | Luis y Ana            | [Ver documento](./pdf/3dOutfit.pdf)        |
-| [@colorea.la.musica](https://www.instagram.com/colorea.la.musica/) | MaFer y MaJo          | [Ver documento](./pdf/Larala.pdf)          |
-| [@mac_lovers3](https://www.instagram.com/mac_lovers3/)             | Camila, Beto y Annel  | [Ver documento](./pdf/Mac&Lovers.pdf)      |
-| [@tamoprotodio](https://www.instagram.com/tamoprotodio/)           | Arantxa y Lorenza     | [Ver documento](./pdf/TeAmoPeroTeOdio.pdf) |
-| [@restriviera](https://www.instagram.com/restriviera/)             | Andrea y Ludwin       | [Ver documento](./pdf/RivieraMaya.pdf)     |
-| [@meiwaku_mx](https://www.instagram.com/meiwaku_mx/)               | Aranza                | [Ver documento](./pdf/Meiwaku.pdf)         |
-| [@trazosocultos](https://www.instagram.com/trazosocultos/)         | Claudia y Selena      | [Ver documento](./pdf/TrazosOcultos.pdf)   |
-| [@acuerdoeco](https://www.instagram.com/acuerdoeco/)               | Ceci, Galina y Karina | [Ver documento](./pdf/Acueco.pdf)          |
+| Instagram                                                          | Integrantes           | Marca                                      | Tienda         |
+| ------------------------------------------------------------------ | --------------------- | ------------------------------------------ | -------------- |
+| [@art.sxcks](https://www.instagram.com/art.sxcks/)                 | Alejandro y Samantha  | [Ver documento](./pdf/ArtSuxks.pdf)        | [Ver Tienda]() |
+| [@3d.outfit](https://www.instagram.com/3d.outfit/)                 | Luis y Ana            | [Ver documento](./pdf/3dOutfit.pdf)        | [Ver Tienda]() |
+| [@colorea.la.musica](https://www.instagram.com/colorea.la.musica/) | MaFer y MaJo          | [Ver documento](./pdf/Larala.pdf)          | [Ver Tienda]() |
+| [@mac_lovers3](https://www.instagram.com/mac_lovers3/)             | Camila, Beto y Annel  | [Ver documento](./pdf/Mac&Lovers.pdf)      | [Ver Tienda]() |
+| [@tamoprotodio](https://www.instagram.com/tamoprotodio/)           | Arantxa y Lorenza     | [Ver documento](./pdf/TeAmoPeroTeOdio.pdf) | [Ver Tienda]() |
+| [@restriviera](https://www.instagram.com/restriviera/)             | Andrea y Ludwin       | [Ver documento](./pdf/RivieraMaya.pdf)     | [Ver Tienda]() |
+| [@meiwaku_mx](https://www.instagram.com/meiwaku_mx/)               | Aranza                | [Ver documento](./pdf/Meiwaku.pdf)         | [Ver Tienda]() |
+| [@trazosocultos](https://www.instagram.com/trazosocultos/)         | Claudia y Selena      | [Ver documento](./pdf/TrazosOcultos.pdf)   | [Ver Tienda]() |
+| [@acuerdoeco](https://www.instagram.com/acuerdoeco/)               | Ceci, Galina y Karina | [Ver documento](./pdf/Acueco.pdf)          | [Ver Tienda]() |
