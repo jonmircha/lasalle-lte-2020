@@ -26,8 +26,7 @@ Repositorio de contenidos de la materia Laboratorio de Tecnologías Emergentes 2
 - [Creación de Marca](./mds/Marca.md)
 - [Estrategias para conseguir Usuarios/Clientes](./mds/Estrategias.md)
 - [_SEO_ en _Instagram_](./mds/InstagramSEO.md)
-- [Instalación de _WordPress_](./mds/WordPress.md)
-- [Ejemplos de Tiendas](./mds/TSAs.md)
+- [_WordPress_](./mds/WordPress.md)
 
 ## Actividades
 
@@ -37,6 +36,7 @@ Repositorio de contenidos de la materia Laboratorio de Tecnologías Emergentes 2
 | 1. Definición de nombre oficial del proyecto<br>2. Revisión documento de Marca (PDF)<br>3. Creación de cuenta en Instagram<br>4. Primer publicación en Instagram                                      | 800 Miércoles 12-feb-20 <br>801 Viernes 14-feb-20 |
 | Enviar documento de Marca: <br>&nbsp;&nbsp;&nbsp;&nbsp;- En formato PDF<br>&nbsp;&nbsp;&nbsp;&nbsp;- Al correo **jonmircha@gmail.com**<br>&nbsp;&nbsp;&nbsp;&nbsp;- Antes de las 4pm del día indicado | 800 Miércoles 19-feb-20<br>801 Viernes 21-feb-20  |
 | Tu cuenta de _Instagram_ deberá tener: <br>&nbsp;&nbsp;&nbsp;&nbsp;1. Avatar y descripción oficiales<br>&nbsp;&nbsp;&nbsp;&nbsp;2. Al menos 3 publicaciones                                           | 800 Miércoles 19-feb-20 <br>801 Viernes 21-feb-20 |
+| Entrega de tienda virtual con productos creados.                                                                                                                                                      | 800 Miércoles 11-mar-20 <br>801 Viernes 13-mar-20 |
 
 ## Entregas
 
@@ -82,7 +82,20 @@ Repositorio de contenidos de la materia Laboratorio de Tecnologías Emergentes 2
 
 ### Tienda Virtual
 
-- Por definir
+- Creación de sitio web con _WordPress_.
+- Personalización de la plantilla del sitio (Logo, Colores, Tipografías, Menús, _Layouts_, etc).
+- Vinculación entre la tienda y la cuenta de Instagram.
+- 3 productos por estudiante.
+- Si los productos son extrenos, estos deberán estar creados en las plataformas elegidas.
+- Si los productos son internos, deberá existir una página por producto en el sitio, con toda la información pertinente de cada producto.
+- Los requisitos mínimos de cada producto son:
+  - Nombre.
+  - Imagen.
+  - Descripción.
+  - Características.
+  - Precio.
+  - Formas de Pago.
+  - Formas de Envío.
 
 ### Anuncio de video 360°
 
