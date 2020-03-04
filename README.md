@@ -84,7 +84,7 @@ Repositorio de contenidos de la materia Laboratorio de Tecnologías Emergentes 2
 
 - Creación de sitio web con _WordPress_.
 - Personalización de la plantilla del sitio (Logo, Colores, Tipografías, Menús, _Layouts_, etc).
-- Vinculación entre la tienda y la cuenta de Instagram.
+- Vinculación entre la tienda y la cuenta de _Instagram_.
 - 3 productos por estudiante.
 - Si los productos son extrenos, estos deberán estar creados en las plataformas elegidas.
 - Si los productos son internos, deberá existir una página por producto en el sitio, con toda la información pertinente de cada producto.
