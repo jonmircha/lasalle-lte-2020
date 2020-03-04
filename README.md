@@ -109,14 +109,14 @@ Repositorio de contenidos de la materia Laboratorio de Tecnologías Emergentes 2
 
 ## Equipos Grupo 801
 
-| Instagram                                                          | Integrantes           | Marca                                      | Tienda         |
-| ------------------------------------------------------------------ | --------------------- | ------------------------------------------ | -------------- |
-| [@art.sxcks](https://www.instagram.com/art.sxcks/)                 | Alejandro y Samantha  | [Ver documento](./pdf/ArtSuxks.pdf)        | [Ver Tienda]() |
-| [@3d.outfit](https://www.instagram.com/3d.outfit/)                 | Luis y Ana            | [Ver documento](./pdf/3dOutfit.pdf)        | [Ver Tienda]() |
-| [@colorea.la.musica](https://www.instagram.com/colorea.la.musica/) | MaFer y MaJo          | [Ver documento](./pdf/Larala.pdf)          | [Ver Tienda]() |
-| [@mac_lovers3](https://www.instagram.com/mac_lovers3/)             | Camila, Beto y Annel  | [Ver documento](./pdf/Mac&Lovers.pdf)      | [Ver Tienda]() |
-| [@tamoprotodio](https://www.instagram.com/tamoprotodio/)           | Arantxa y Lorenza     | [Ver documento](./pdf/TeAmoPeroTeOdio.pdf) | [Ver Tienda]() |
-| [@restriviera](https://www.instagram.com/restriviera/)             | Andrea y Ludwin       | [Ver documento](./pdf/RivieraMaya.pdf)     | [Ver Tienda]() |
-| [@meiwaku_mx](https://www.instagram.com/meiwaku_mx/)               | Aranza                | [Ver documento](./pdf/Meiwaku.pdf)         | [Ver Tienda]() |
-| [@trazosocultos](https://www.instagram.com/trazosocultos/)         | Claudia y Selena      | [Ver documento](./pdf/TrazosOcultos.pdf)   | [Ver Tienda]() |
-| [@acuerdoeco](https://www.instagram.com/acuerdoeco/)               | Ceci, Galina y Karina | [Ver documento](./pdf/Acueco.pdf)          | [Ver Tienda]() |
+| Instagram                                                          | Integrantes           | Marca                                      | Tienda                                                         |
+| ------------------------------------------------------------------ | --------------------- | ------------------------------------------ | -------------------------------------------------------------- |
+| [@art.sxcks](https://www.instagram.com/art.sxcks/)                 | Alejandro y Samantha  | [Ver documento](./pdf/ArtSuxks.pdf)        | [Ver Tienda](http://artsxcks.onlinewebshop.net/)               |
+| [@3d.outfit](https://www.instagram.com/3d.outfit/)                 | Luis y Ana            | [Ver documento](./pdf/3dOutfit.pdf)        | [Ver Tienda](http://threedoutfit.onlinewebshop.net/)           |
+| [@colorea.la.musica](https://www.instagram.com/colorea.la.musica/) | MaFer y MaJo          | [Ver documento](./pdf/Larala.pdf)          | [Ver Tienda](http://larala.onlinewebshop.net/)                 |
+| [@mac_lovers3](https://www.instagram.com/mac_lovers3/)             | Camila, Beto y Annel  | [Ver documento](./pdf/Mac&Lovers.pdf)      | [Ver Tienda](http://macnlovers.onlinewebshop.net/)             |
+| [@tamoprotodio](https://www.instagram.com/tamoprotodio/)           | Arantxa y Lorenza     | [Ver documento](./pdf/TeAmoPeroTeOdio.pdf) | [Ver Tienda](http://teamoperoteodio.onlinewebshop.net/)        |
+| [@restriviera](https://www.instagram.com/restriviera/)             | Andrea y Ludwin       | [Ver documento](./pdf/RivieraMaya.pdf)     | [Ver Tienda](http://restauranterivieramaya.onlinewebshop.net/) |
+| [@meiwaku_mx](https://www.instagram.com/meiwaku_mx/)               | Aranza                | [Ver documento](./pdf/Meiwaku.pdf)         | [Ver Tienda](http://meiwaku.atwebpages.com/)                   |
+| [@trazosocultos](https://www.instagram.com/trazosocultos/)         | Claudia y Selena      | [Ver documento](./pdf/TrazosOcultos.pdf)   | [Ver Tienda](http://trazosocultos.atwebpages.com/)             |
+| [@acuerdoeco](https://www.instagram.com/acuerdoeco/)               | Ceci, Galina y Karina | [Ver documento](./pdf/Acueco.pdf)          | [Ver Tienda](http://acuerdoeco.atwebpages.com/)                |
