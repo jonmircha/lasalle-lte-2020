@@ -40,13 +40,13 @@ Repositorio de contenidos de la materia Laboratorio de Tecnologías Emergentes 2
 
 ## Entregas
 
-| Proyecto                   | Porcentaje | Entrega                                           |
-| -------------------------- | ---------- | ------------------------------------------------- |
-| Instagram                  | **20%**    | 800 Miércoles 19-feb-20 <br>801 Viernes 21-feb-20 |
-| Tienda Virtual             | **30%**    | 800 Miércoles 11-mar-20 <br>801 Viernes 13-mar-20 |
-| Anuncio de video 360°      | **30%**    | 800 Miércoles 22-abr-20 <br>801 Viernes 24-abr-20 |
-| App con Realidad Aumentada | **20%**    | 800 Miércoles 27-may-20 <br>801 Viernes 29-may-20 |
-| Captura de Calificaciones  | **100%**   | 800 Lunes 01-jun-20 <br>801 Martes 02-jun-20      |
+| Proyecto                   | Porcentaje | Entrega                                             |
+| -------------------------- | ---------- | --------------------------------------------------- |
+| Instagram                  | **20%**    | 800 Miércoles 19-feb-20 <br>801 Viernes 21-feb-20   |
+| Tienda Virtual             | **30%**    | 800 Miércoles 18-mar-20 <br>801 Miércoles 18-mar-20 |
+| Anuncio de video 360°      | **30%**    | 800 Miércoles 22-abr-20 <br>801 Viernes 24-abr-20   |
+| App con Realidad Aumentada | **20%**    | 800 Miércoles 27-may-20 <br>801 Viernes 29-may-20   |
+| Captura de Calificaciones  | **100%**   | 800 Lunes 01-jun-20 <br>801 Martes 02-jun-20        |
 
 ## Requisitos por Proyectos
 
