@@ -110,7 +110,7 @@ Repositorio de contenidos de la materia Laboratorio de Tecnologías Emergentes 2
 | Instagram                                                          | Integrantes               | Marca                                      | Tienda                                                |
 | ------------------------------------------------------------------ | ------------------------- | ------------------------------------------ | ----------------------------------------------------- |
 | [@platos.de.voz](https://www.instagram.com/platos.de.voz/)         | Natalia y Gabriela        | [Ver documento](./pdf/PlatosDeVoz.pdf)     | [Ver Tienda](http://platosdevoz.atwebpages.com/)      |
-| [@beerncheers](https://www.instagram.com/beerncheers/)             | Astrid y Gabriela         | [Ver documento](./pdf/Beer&Cheers.pdf)     | [Ver Tienda]()                                        |
+| [@beerncheers](https://www.instagram.com/beerncheers/)             | Astrid y Gabriela         | [Ver documento](./pdf/Beer&Cheers.pdf)     | [Ver Tienda](http://beerncheers.onlinewebshop.net/)   |
 | [@dosisperfecta\_](https://www.instagram.com/dosisperfecta_/)      | Sandra y Constanza        | [Ver documento](./pdf/LaDosisPerfecta.pdf) | [Ver Tienda](http://ladosisperfecta.atwebpages.com/)  |
 | [@horadelpulquecdmx](https://www.instagram.com/horadelpulquecdmx/) | David y Martha            | [Ver documento](./pdf/LaHoraDelPulque.pdf) | [Ver Tienda](http://lahoradelpulque.atwebpages.com/)  |
 | [@fran\_\_chi](https://www.instagram.com/fran__chi/)               | Verónica, Andrea y Nicole | [Ver documento](./pdf/FranChi.pdf)         | [Ver Tienda](http://franchi.atwebpages.com/)          |
