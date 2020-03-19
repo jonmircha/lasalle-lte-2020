@@ -113,7 +113,7 @@ Repositorio de contenidos de la materia Laboratorio de Tecnologías Emergentes 2
 | [@beerncheers](https://www.instagram.com/beerncheers/)             | Astrid y Gabriela         | [Ver documento](./pdf/Beer&Cheers.pdf)     | [Ver Tienda](http://beerncheers.onlinewebshop.net/)     |
 | [@dosisperfecta\_](https://www.instagram.com/dosisperfecta_/)      | Sandra y Constanza        | [Ver documento](./pdf/LaDosisPerfecta.pdf) | [Ver Tienda](http://ladosisperfecta.atwebpages.com/)    |
 | [@horadelpulquecdmx](https://www.instagram.com/horadelpulquecdmx/) | David y Martha            | [Ver documento](./pdf/LaHoraDelPulque.pdf) | [Ver Tienda](http://lahoradelpulque.atwebpages.com/)    |
-| [@fran\_\_chi](https://www.instagram.com/fran__chi/)               | Verónica, Andrea y Nicole | [Ver documento](./pdf/FranChi.pdf)         | [Ver Tienda](http://franchi.atwebpages.com/)            |
+| [@fran\_\_chi](https://www.instagram.com/fran__chi/)               | Verónica, Andrea y Nicole | [Ver documento](./pdf/FranChi.pdf)         | [Ver Tienda](http://franchii.atwebpages.com/acerca-de/) |
 | [@vector_vidente](https://www.instagram.com/vector_vidente/)       | Santiago y Fernanda       | [Ver documento](./pdf/VectorVidente.pdf)   | [Ver Tienda](http://vectorvidentemx.onlinewebshop.net/) |
 | [@cupsicakes](https://www.instagram.com/cupsicakes)                | Fernanda y Azucena        | [Ver documento](./pdf/CupsiCakes.pdf)      | [Ver Tienda](http://cupsicakes.atwebpages.com/)         |
 | [@milkyrecomienda](https://www.instagram.com/milkyrecomienda/)     | Karla y Mariana           | [Ver documento](./pdf/MilkyRecomienda.pdf) | [Ver Tienda](http://milkyrecomienda.atwebpages.com/)    |
