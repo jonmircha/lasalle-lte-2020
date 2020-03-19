@@ -117,7 +117,7 @@ Repositorio de contenidos de la materia Laboratorio de Tecnologías Emergentes 2
 | [@vector_vidente](https://www.instagram.com/vector_vidente/)       | Santiago y Fernanda       | [Ver documento](./pdf/VectorVidente.pdf)   | [Ver Tienda](http://vectorvidentemx.onlinewebshop.net/) |
 | [@cupsicakes](https://www.instagram.com/cupsicakes)                | Fernanda y Azucena        | [Ver documento](./pdf/CupsiCakes.pdf)      | [Ver Tienda](http://cupsicakes.atwebpages.com/)         |
 | [@milkyrecomienda](https://www.instagram.com/milkyrecomienda/)     | Karla y Mariana           | [Ver documento](./pdf/MilkyRecomienda.pdf) | [Ver Tienda](http://milkyrecomienda.atwebpages.com/)    |
-| [@la\_\_\_\_tina](https://www.instagram.com/la____tina/)           | Almudena y Mónica         | [Ver documento](./pdf/LaTina.pdf)          | [Ver Tienda](http://echalechula.onlinewebshop.net/)     |
+| [@echalechula](https://www.instagram.com/echalechula/)             | Almudena y Mónica         | [Ver documento](./pdf/LaTina.pdf)          | [Ver Tienda](http://echalechula.onlinewebshop.net/)     |
 | [@miriandearth](https://www.instagram.com/miriandearth/)           | Mariana                   | [Ver documento](./pdf/Miri.pdf)            | [Ver Tienda](http://miriandearth.atwebpages.com/)       |
 
 ## Equipos Grupo 801
