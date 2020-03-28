@@ -28,12 +28,13 @@ Repositorio de contenidos de la materia Laboratorio de Tecnologías Emergentes 2
 - [_SEO_ en _Instagram_](./mds/InstagramSEO.md)
 - [_WordPress_](./mds/WordPress.md)
 
-## Videos
+## Video Clases
 
 - [Como generar una galería a partir del Plug In CUSTOM GALLERY en WordPress](https://www.youtube.com/watch?v=DWBlVj7ne8I)
 - [Como agregar redes sociales con el PlugIn ULTIMATE SOCIAL MEDIA en WordPress](https://www.youtube.com/watch?v=yJamCnGZLDI)
 - [Como usar Adobe Aero y Adobe Dimension (Realidad Aumentada)](https://www.youtube.com/watch?v=FF4eqBdi8Lc)
 - [Grupo 801 Tecnologías Emergentes 24 de marzo 2020](https://www.youtube.com/watch?v=Qmbkt5FImhA)
+- [Tecnologías Emergentes Grupo 801 27 de marzo 2020](https://www.youtube.com/watch?v=XACnwlaCNn0)
 
 ## Actividades
 
@@ -51,8 +52,8 @@ Repositorio de contenidos de la materia Laboratorio de Tecnologías Emergentes 2
 | -------------------------- | ---------- | --------------------------------------------------- |
 | Instagram                  | **20%**    | 800 Miércoles 19-feb-20 <br>801 Viernes 21-feb-20   |
 | Tienda Virtual             | **30%**    | 800 Miércoles 18-mar-20 <br>801 Miércoles 18-mar-20 |
-| Anuncio de video 360°      | **30%**    | 800 Miércoles 22-abr-20 <br>801 Viernes 24-abr-20   |
-| App con Realidad Aumentada | **20%**    | 800 Miércoles 27-may-20 <br>801 Viernes 29-may-20   |
+| App con Realidad Aumentada | **30%**    | 800 Miércoles 22-abr-20 <br>801 Viernes 24-abr-20   |
+| Anuncio de video 360°      | **30%**    | 800 Miércoles 27-may-20 <br>801 Viernes 29-may-20   |
 | Captura de Calificaciones  | **100%**   | 800 Lunes 01-jun-20 <br>801 Martes 02-jun-20        |
 
 ## Requisitos por Proyectos
@@ -106,7 +107,24 @@ Repositorio de contenidos de la materia Laboratorio de Tecnologías Emergentes 2
 
 ### App con Realidad Aumentada
 
-- Por definir
+**Entrega:**
+
+En la semana del 30 de marzo al 3 de abril.
+
+**Requisitos:**
+
+1. 3 objetos por estudiante.
+1. Extensiones de archivos soportadas hasta ahora: _**.obj**_ _**.fbx**_ y _**.zip**_
+1. Por el momento no fijarse en texturas
+1. En objetos separados en formato _**.jpg**_ o _**.png**_ agregar paredes y pisos, estas sí deben estar con _Look and Feel_.
+1. Fechas de entrega **1 y 3 de abril** según corresponda su grupo.
+1. Se entrega 1 solo _**jpg**_ por equipo con la composición planeada. Puede ser hecha en _Photoshop_.
+
+**Videos:**
+
+- [Delimitación del proyecto](https://www.youtube.com/watch?v=Qmbkt5FImhA)
+- [¿Qué es Realidad Aumentada, Adobe Aero y Dimension?](https://www.youtube.com/watch?v=FF4eqBdi8Lc)
+- [Implementación de objetos 3D en Aero \(Ejemplo de composición en Realidad Aumentada\)](https://www.youtube.com/watch?v=XACnwlaCNn0)
 
 ### Anuncio de video 360°
 
