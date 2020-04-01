@@ -35,6 +35,7 @@ Repositorio de contenidos de la materia Laboratorio de Tecnologías Emergentes 2
 - [Como usar Adobe Aero y Adobe Dimension (Realidad Aumentada)](https://www.youtube.com/watch?v=FF4eqBdi8Lc)
 - [Grupo 801 Tecnologías Emergentes 24 de marzo 2020](https://www.youtube.com/watch?v=Qmbkt5FImhA)
 - [Tecnologías Emergentes Grupo 801 27 de marzo 2020](https://www.youtube.com/watch?v=XACnwlaCNn0)
+- [Composición en Realidad Aumentada. Branding en objetos creados en Adobe Dimension](https://www.youtube.com/watch?v=sdcOOoxVdoA)
 
 ## Actividades
 
@@ -125,6 +126,7 @@ En la semana del 30 de marzo al 3 de abril.
 - [Delimitación del proyecto](https://www.youtube.com/watch?v=Qmbkt5FImhA)
 - [¿Qué es Realidad Aumentada, Adobe Aero y Dimension?](https://www.youtube.com/watch?v=FF4eqBdi8Lc)
 - [Implementación de objetos 3D en Aero \(Ejemplo de composición en Realidad Aumentada\)](https://www.youtube.com/watch?v=XACnwlaCNn0)
+- [Composición en Realidad Aumentada. Branding en objetos creados en Adobe Dimension](https://www.youtube.com/watch?v=sdcOOoxVdoA)
 
 ### Anuncio de video 360°
 
