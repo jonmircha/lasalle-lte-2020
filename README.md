@@ -110,16 +110,15 @@ Repositorio de contenidos de la materia Laboratorio de Tecnologías Emergentes 2
 
 **Entrega:**
 
-En la semana del 30 de marzo al 3 de abril.
+- Grupo 800 - Lunes 27 de abril.
+- Grupo 801 - Martes 28 de abril.
 
-**Requisitos:**
+  **Requisitos:**
 
-1. 3 objetos por estudiante.
-1. Extensiones de archivos soportadas hasta ahora: _**.obj**_ _**.fbx**_ y _**.zip**_
-1. Por el momento no fijarse en texturas
-1. En objetos separados en formato _**.jpg**_ o _**.png**_ agregar paredes y pisos, estas sí deben estar con _Look and Feel_.
-1. Fechas de entrega **1 y 3 de abril** según corresponda su grupo.
-1. Se entrega 1 solo _**jpg**_ por equipo con la composición planeada. Puede ser hecha en _Photoshop_.
+1. Todos los equipos ya deben tener sus 3 productos por integrante.
+1. Los productos deben integrarlos uno por uno en Adobe Aero.
+1. El stand, mesa o exhibidor ya debe estar incluido en la composición de realidad aumentada.
+1. Deben entregar una foto o clip de 5s del ipad, iphone o dispositivo corriendo la aplicación y corriendo en realidad aumentada su composición.
 
 **Videos:**
 
