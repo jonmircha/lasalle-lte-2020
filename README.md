@@ -110,8 +110,8 @@ Repositorio de contenidos de la materia Laboratorio de Tecnologías Emergentes 2
 
 **Entrega:**
 
-- Grupo 800 - Lunes 27 de abril.
-- Grupo 801 - Martes 28 de abril.
+- Grupo 800 - Lunes 04 de mayo.
+- Grupo 801 - Lunes 04 de mayo.
 
   **Requisitos:**
 
@@ -139,7 +139,7 @@ Repositorio de contenidos de la materia Laboratorio de Tecnologías Emergentes 2
 | [@beerncheers](https://www.instagram.com/beerncheers/) **116**             | Astrid y Gabriela         | [Ver documento](./pdf/Beer&Cheers.pdf)     | [Ver Tienda](http://beerncheers.onlinewebshop.net/)     |
 | [@dosisperfecta\_](https://www.instagram.com/dosisperfecta_/) **518**      | Sandra y Constanza        | [Ver documento](./pdf/LaDosisPerfecta.pdf) | [Ver Tienda](http://ladosisperfecta.atwebpages.com/)    |
 | [@horadelpulquecdmx](https://www.instagram.com/horadelpulquecdmx/) **132** | David y Martha            | [Ver documento](./pdf/LaHoraDelPulque.pdf) | [Ver Tienda](http://lahoradelpulque.atwebpages.com/)    |
-| [@fran\_\_chi](https://www.instagram.com/fran__chi/) **240**               | Verónica, Andrea y Nicole | [Ver documento](./pdf/FranChi.pdf)         | [Ver Tienda](http://franchii.atwebpages.com/acerca-de/) |
+| [@fran\_\_chi](https://www.instagram.com/fran__chi/) **240**               | Verónica, Andrea y Nicole | [Ver documento](./pdf/FranChi.pdf)         | [Ver Tienda](https://lasalle.jonmircha.com/franchi/)    |
 | [@vector_vidente](https://www.instagram.com/vector_vidente/) **781**       | Santiago y Fernanda       | [Ver documento](./pdf/VectorVidente.pdf)   | [Ver Tienda](http://vectorvidentemx.onlinewebshop.net/) |
 | [@cupsicakes](https://www.instagram.com/cupsicakes) **107**                | Fernanda y Azucena        | [Ver documento](./pdf/CupsiCakes.pdf)      | [Ver Tienda](http://cupsicakes.atwebpages.com/)         |
 | [@milkyrecomienda](https://www.instagram.com/milkyrecomienda/) **104**     | Karla y Mariana           | [Ver documento](./pdf/MilkyRecomienda.pdf) | [Ver Tienda](http://milkyrecomienda.atwebpages.com/)    |
