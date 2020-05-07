@@ -127,9 +127,21 @@ Repositorio de contenidos de la materia Laboratorio de Tecnologías Emergentes 2
 - [Implementación de objetos 3D en Aero \(Ejemplo de composición en Realidad Aumentada\)](https://www.youtube.com/watch?v=XACnwlaCNn0)
 - [Composición en Realidad Aumentada. Branding en objetos creados en Adobe Dimension](https://www.youtube.com/watch?v=sdcOOoxVdoA)
 
-### Anuncio de video 360°
+### Demo Reel
 
-- Por definir
+Realizar un demo reel dividido en 5 historias para instagram, donde promocionen y promuevan los 3 proyectos anteriores (Cuenta de Instagram, Tienda en WordPress y Productos en Realidad Aumentada) hechos durante el semestre, las características del reel son:
+
+1. Realizar 5 **_instastories_** en video.
+1. El formato debe ser **750x1334**
+1. Duración 10 segundos por cada video.
+1. Los videos deben de guardarse en las **stories destacadas** de Instagram, para evitar que se pierdan después de las 24hrs de publicación.
+1. Deben promover todas las bondades de sus sitios, productos y servicios.
+1. Usen tanto fotografías, videos, como capturas de pantalla.
+
+**Fecha de entrega:**
+
+- Grupo 800 - Lunes 25 de mayo.
+- Grupo 801 - Martes 26 de mayo.
 
 ## Equipos Grupo 800
 
