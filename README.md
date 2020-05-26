@@ -147,27 +147,27 @@ Realizar un demo reel dividido en 5 historias para instagram, donde promocionen 
 
 | Instagram                                                                  | Integrantes               | Marca                                      | Tienda                                                  |
 | -------------------------------------------------------------------------- | ------------------------- | ------------------------------------------ | ------------------------------------------------------- |
-| [@platos.de.voz](https://www.instagram.com/platos.de.voz/) **439**         | Natalia y Gabriela        | [Ver documento](./pdf/PlatosDeVoz.pdf)     | [Ver Tienda](https://platosdevoz.mx/)                   |
-| [@beerncheers](https://www.instagram.com/beerncheers/) **116**             | Astrid y Gabriela         | [Ver documento](./pdf/Beer&Cheers.pdf)     | [Ver Tienda](http://beerncheers.onlinewebshop.net/)     |
-| [@dosisperfecta\_](https://www.instagram.com/dosisperfecta_/) **518**      | Sandra y Constanza        | [Ver documento](./pdf/LaDosisPerfecta.pdf) | [Ver Tienda](http://ladosisperfecta.atwebpages.com/)    |
-| [@horadelpulquecdmx](https://www.instagram.com/horadelpulquecdmx/) **132** | David y Martha            | [Ver documento](./pdf/LaHoraDelPulque.pdf) | [Ver Tienda](http://lahoradelpulque.atwebpages.com/)    |
-| [@fran\_\_chi](https://www.instagram.com/fran__chi/) **240**               | Verónica, Andrea y Nicole | [Ver documento](./pdf/FranChi.pdf)         | [Ver Tienda](https://lasalle.jonmircha.com/franchi/)    |
-| [@vector_vidente](https://www.instagram.com/vector_vidente/) **781**       | Santiago y Fernanda       | [Ver documento](./pdf/VectorVidente.pdf)   | [Ver Tienda](http://vectorvidentemx.onlinewebshop.net/) |
-| [@cupsicakes](https://www.instagram.com/cupsicakes) **107**                | Fernanda y Azucena        | [Ver documento](./pdf/CupsiCakes.pdf)      | [Ver Tienda](http://cupsicakes.atwebpages.com/)         |
-| [@milkyrecomienda](https://www.instagram.com/milkyrecomienda/) **104**     | Karla y Mariana           | [Ver documento](./pdf/MilkyRecomienda.pdf) | [Ver Tienda](http://milkyrecomienda.atwebpages.com/)    |
-| [@echalechula](https://www.instagram.com/echalechula/) **400**             | Almudena y Mónica         | [Ver documento](./pdf/LaTina.pdf)          | [Ver Tienda](http://echalechula.onlinewebshop.net/)     |
+| [@platos.de.voz](https://www.instagram.com/platos.de.voz/) **566**         | Natalia y Gabriela        | [Ver documento](./pdf/PlatosDeVoz.pdf)     | [Ver Tienda](https://platosdevoz.mx/)                   |
+| [@beerncheers](https://www.instagram.com/beerncheers/) **598**             | Astrid y Gabriela         | [Ver documento](./pdf/Beer&Cheers.pdf)     | [Ver Tienda](http://beerncheers.onlinewebshop.net/)     |
+| [@dosisperfecta\_](https://www.instagram.com/dosisperfecta_/) **718**      | Sandra y Constanza        | [Ver documento](./pdf/LaDosisPerfecta.pdf) | [Ver Tienda](http://ladosisperfecta.atwebpages.com/)    |
+| [@horadelpulquecdmx](https://www.instagram.com/horadelpulquecdmx/) **597** | David y Martha            | [Ver documento](./pdf/LaHoraDelPulque.pdf) | [Ver Tienda](http://lahoradelpulque.atwebpages.com/)    |
+| [@fran\_\_chi](https://www.instagram.com/fran__chi/) **803**               | Verónica, Andrea y Nicole | [Ver documento](./pdf/FranChi.pdf)         | [Ver Tienda](https://lasalle.jonmircha.com/franchi/)    |
+| [@vector_vidente](https://www.instagram.com/vector_vidente/) **1037**      | Santiago y Fernanda       | [Ver documento](./pdf/VectorVidente.pdf)   | [Ver Tienda](http://vectorvidentemx.onlinewebshop.net/) |
+| [@cupsicakes](https://www.instagram.com/cupsicakes) **237**                | Fernanda y Azucena        | [Ver documento](./pdf/CupsiCakes.pdf)      | [Ver Tienda](http://cupsicakes.atwebpages.com/)         |
+| [@milkyrecomienda](https://www.instagram.com/milkyrecomienda/) **504**     | Karla y Mariana           | [Ver documento](./pdf/MilkyRecomienda.pdf) | [Ver Tienda](http://milkyrecomienda.atwebpages.com/)    |
+| [@echalechula](https://www.instagram.com/echalechula/) **573**             | Almudena y Mónica         | [Ver documento](./pdf/LaTina.pdf)          | [Ver Tienda](http://echalechula.onlinewebshop.net/)     |
 | [@miriandearth](https://www.instagram.com/miriandearth/) **15**            | Mariana                   | [Ver documento](./pdf/Miri.pdf)            | [Ver Tienda](http://miriandearth.atwebpages.com/)       |
 
 ## Equipos Grupo 801
 
 | Instagram                                                                  | Integrantes           | Marca                                      | Tienda                                                         |
 | -------------------------------------------------------------------------- | --------------------- | ------------------------------------------ | -------------------------------------------------------------- |
-| [@art.sxcks](https://www.instagram.com/art.sxcks/) **533**                 | Alejandro y Samantha  | [Ver documento](./pdf/ArtSuxks.pdf)        | [Ver Tienda](http://artsxcks.onlinewebshop.net/)               |
-| [@3d.outfit](https://www.instagram.com/3d.outfit/) **167**                 | Luis y Ana            | [Ver documento](./pdf/3dOutfit.pdf)        | [Ver Tienda](http://threedoutfit.onlinewebshop.net/)           |
-| [@colorea.la.musica](https://www.instagram.com/colorea.la.musica/) **731** | MaFer y MaJo          | [Ver documento](./pdf/Larala.pdf)          | [Ver Tienda](http://larala.onlinewebshop.net/)                 |
-| [@mac_lovers3](https://www.instagram.com/mac_lovers3/) **769**             | Camila, Beto y Annel  | [Ver documento](./pdf/Mac&Lovers.pdf)      | [Ver Tienda](http://macnlovers.onlinewebshop.net/)             |
-| [@tamoprotodio](https://www.instagram.com/tamoprotodio/) **267**           | Arantxa y Lorenza     | [Ver documento](./pdf/TeAmoPeroTeOdio.pdf) | [Ver Tienda](http://teamoperoteodio.onlinewebshop.net/)        |
-| [@restriviera](https://www.instagram.com/restriviera/) **102**             | Andrea y Ludwin       | [Ver documento](./pdf/RivieraMaya.pdf)     | [Ver Tienda](http://restauranterivieramaya.onlinewebshop.net/) |
-| [@meiwaku_mx](https://www.instagram.com/meiwaku_mx/) **115**               | Aranza                | [Ver documento](./pdf/Meiwaku.pdf)         | [Ver Tienda](http://meiwaku.atwebpages.com/)                   |
-| [@trazosocultos](https://www.instagram.com/trazosocultos/) **374**         | Claudia y Selena      | [Ver documento](./pdf/TrazosOcultos.pdf)   | [Ver Tienda](http://trazosocultos.atwebpages.com/)             |
-| [@acuerdoeco](https://www.instagram.com/acuerdoeco/) **203**               | Ceci, Galina y Karina | [Ver documento](./pdf/Acueco.pdf)          | [Ver Tienda](http://acuerdoeco.atwebpages.com/)                |
+| [@art.sxcks](https://www.instagram.com/art.sxcks/) **612**                 | Alejandro y Samantha  | [Ver documento](./pdf/ArtSuxks.pdf)        | [Ver Tienda](http://artsxcks.onlinewebshop.net/)               |
+| [@3d.outfit](https://www.instagram.com/3d.outfit/) **644**                 | Luis y Ana            | [Ver documento](./pdf/3dOutfit.pdf)        | [Ver Tienda](http://threedoutfit.onlinewebshop.net/)           |
+| [@colorea.la.musica](https://www.instagram.com/colorea.la.musica/) **978** | MaFer y MaJo          | [Ver documento](./pdf/Larala.pdf)          | [Ver Tienda](http://larala.onlinewebshop.net/)                 |
+| [@mac_lovers3](https://www.instagram.com/mac_lovers3/) **813**             | Camila, Beto y Annel  | [Ver documento](./pdf/Mac&Lovers.pdf)      | [Ver Tienda](http://macnlovers.onlinewebshop.net/)             |
+| [@tamoprotodio](https://www.instagram.com/tamoprotodio/) **599**           | Arantxa y Lorenza     | [Ver documento](./pdf/TeAmoPeroTeOdio.pdf) | [Ver Tienda](http://teamoperoteodio.onlinewebshop.net/)        |
+| [@restriviera](https://www.instagram.com/restriviera/) **242**             | Andrea y Ludwin       | [Ver documento](./pdf/RivieraMaya.pdf)     | [Ver Tienda](http://restauranterivieramaya.onlinewebshop.net/) |
+| [@meiwaku_mx](https://www.instagram.com/meiwaku_mx/) **147**               | Aranza                | [Ver documento](./pdf/Meiwaku.pdf)         | [Ver Tienda](http://meiwaku.atwebpages.com/)                   |
+| [@trazosocultos](https://www.instagram.com/trazosocultos/) **823**         | Claudia y Selena      | [Ver documento](./pdf/TrazosOcultos.pdf)   | [Ver Tienda](http://trazosocultos.atwebpages.com/)             |
+| [@acuerdoeco](https://www.instagram.com/acuerdoeco/) **735**               | Ceci, Galina y Karina | [Ver documento](./pdf/Acueco.pdf)          | [Ver Tienda](http://acuerdoeco.atwebpages.com/)                |
